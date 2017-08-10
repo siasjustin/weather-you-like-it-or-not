@@ -94,7 +94,7 @@ var config = {
 		extensions: ['.js', '.jsx', '.json'],
 		alias: {
 			'globals': path.resolve(__dirname, './js/globals'),
-			'meta': path.resolve(__dirname, './js/meta')
+			'meta': path.resolve(__dirname, './js/meta'),
 		},
 	    modules: [ "node_modules" ]
 	},

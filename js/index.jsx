@@ -4,7 +4,6 @@ import { browserHistory, Router, Route, IndexRoute, Match } from 'react-router';
 import configureStore from './store/configureStore';
 import { Provider } from 'react-redux';
 import "babel-polyfill";
-
 import actions from './actions';
 
 // components
