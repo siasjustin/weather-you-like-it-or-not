@@ -169,6 +169,12 @@ $green: #00ff00;
     justify-content:center;
     text-align:center;
 }
+@mixin flexCenter {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
 
 @mixin prefix($property, $value, $prefixes: ()) {
 	@each $prefix in $prefixes {

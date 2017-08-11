@@ -1,0 +1,56 @@
+#homePage, body, html {
+    height:100vh;
+    width:100vw;
+    background:$black;
+    .wrapper {
+        height:100%;
+        width:100%;
+        display: flex;
+        flex-direction:column;
+        align-items: center;
+
+        &.intro {
+            justify-content: center;
+            background:url(/images/backgrounds/intro.jpg) no-repeat;
+            background-position:center center;
+            background-size:cover;
+            .formHolder {
+                display:inline-block;
+                height:300px;
+                width:300px;
+                border-radius:50%;
+                background: rgba(256,256,256, .7);
+                text-align:center;
+                position: relative;
+                left: -18%;
+                @include flexCenter();
+                h1 {
+                    padding: 0 72px;;
+                    margin-bottom:10px;
+                    line-height:1.6;
+                }
+                form {
+                    @include flexCenter();
+                    input[type='zip'], input[type='text'], {
+                        font-size: 22px;
+                        padding: 6px 20px;
+                        margin-bottom:10px;
+                    }
+                    input[type='submit'] {
+                        background: grey;
+                        border: solid 2px #cdcdcd;
+                        padding: 6px 20px;
+                        border-radius: 12px;
+                        font-size: 16px;
+                        text-transform: uppercase;
+                        color: white;
+                    }
+                }
+            }
+        }
+        &.apiError, &.apiSuccess {
+            
+        }
+
+    }
+}

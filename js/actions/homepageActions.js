@@ -5,9 +5,9 @@ export function loadHomePageSuccess(data) {
 	return {type: types.LOAD_HOMEPAGE_DATA_SUCCESS, data};
 }
 
-export function loadHomePageFail(data) {
-  return {type: types.LOAD_HOMEPAGE_DATA_FAIL};
-}
+// export function loadHomePageFail(data) {
+//   return {type: types.LOAD_HOMEPAGE_DATA_FAIL};
+// }
 
 export function loadHomePageData(zip) {
 	return function(dispatch) {
