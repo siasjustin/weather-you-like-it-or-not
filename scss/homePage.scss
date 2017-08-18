@@ -2,55 +2,126 @@
     height:100vh;
     width:100vw;
     background:$black;
-    .wrapper {
-        height:100%;
-        width:100%;
-        display: flex;
-        flex-direction:column;
-        align-items: center;
 
-        &.intro {
-            justify-content: center;
-            background:url(/images/backgrounds/intro.jpg) no-repeat;
-            background-position:center center;
-            background-size:cover;
-            .formHolder {
-                display:inline-block;
-                height:300px;
-                width:300px;
-                border-radius:50%;
-                background: rgba(256,256,256, .7);
-                text-align:center;
-                position: relative;
-                left: -18%;
+}
+/* Theme stuff here 
+    let's break this into its own file as it develops
+*/
+
+
+/// The interface will be areas
+.circle {
+    border-radius:50%;
+    text-align:center;
+    @include flexCenter();
+
+}
+.formHolder {
+    @include overlayBackground; 
+    
+     h1 {
+        padding: 0 72px;;
+        margin-bottom:10px;
+        line-height:1.6;
+    }
+    form {
+        input[type='zip'], input[type='text'], {
+            font-size: 22px;
+            padding: 6px 20px;
+           
+        }
+         @include placeholder {
+            font-size:12px;
+            text-transform:uppercase;
+        }
+        input[type='submit'] {
+            background: grey;
+            border: solid 2px #cdcdcd;
+            padding: 6px 20px;
+            border-radius: 12px;
+            font-size: 16px;
+            text-transform: uppercase;
+            color: white;
+        }
+    }
+}
+.wrapper {
+    height:100%;
+    width:100%;
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    background-size:cover;
+    background-position:center center;
+    em {
+        font-size:2rem;
+    }
+
+    &.intro {
+        justify-content: center;
+        background:url(/images/backgrounds/intro.jpg) no-repeat;
+        background-position:center center;
+        background-size:cover;
+
+        // specific to the intro wrapper
+        .formHolder {
+
+            height:300px;
+            width:300px;
+            position: relative;
+            left: -18%;
+            form {
                 @include flexCenter();
-                h1 {
-                    padding: 0 72px;;
-                    margin-bottom:10px;
-                    line-height:1.6;
-                }
-                form {
-                    @include flexCenter();
-                    input[type='zip'], input[type='text'], {
-                        font-size: 22px;
-                        padding: 6px 20px;
-                        margin-bottom:10px;
-                    }
-                    input[type='submit'] {
-                        background: grey;
-                        border: solid 2px #cdcdcd;
-                        padding: 6px 20px;
-                        border-radius: 12px;
-                        font-size: 16px;
-                        text-transform: uppercase;
-                        color: white;
-                    }
+                input[type=text], input[type=zip] {
+                    margin-bottom:.85rem;
                 }
             }
         }
-        &.apiError, &.apiSuccess {
-            
-        }
-
     }
+    &.apiFail, &.apiSuccess {
+        header {
+            line-height:1.6;
+            z-index:1;
+            width:100%;
+            @include overlayBackground;
+            .container {
+                display:grid;
+                padding: 2em;
+                grid-template-columns: auto auto;
+                align-items:center;
+                grid-gap:0 2em;
+                .formHolder {
+                    background: none;
+                    justify-self:end;
+                    form {
+                        input[type=text], input[type=zip] {
+                            margin-right:1.25rem;
+                        }
+
+                    }
+                }
+            }
+
+        }
+        .display {
+            width:100%;
+            height:100%;
+            display:grid;
+            grid-template-columns: repeat(7, 1fr);
+            grid-auto-rows: minmax(25%, auto);
+            
+            .box {
+                @include flexCenter;
+                visibility: hidden;
+                border-radius:7rem;
+                // &.box16 {
+                //     grid-row: 3;
+                //     grid-column: 4 / 7;
+                //     @include overlayBackground;
+                   
+                // }              
+            }
+        }
+    }
+
 }

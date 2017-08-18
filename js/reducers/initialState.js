@@ -1,6 +1,17 @@
 export default {
 	homePageData: {
 		title: "Hello Squirrorld",
-    currentWeather: {}
+    weatherInfo: [],
+    currentWeather: {
+      weather: [{
+        id:null,
+
+      }],
+      name: null,
+      main:{
+        temp:0
+      }
+    },
+    error: null
 	}
 }

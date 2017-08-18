@@ -1,0 +1,432 @@
+-------------------------------------
+/var/log/nodejs/nodejs.log
+-------------------------------------
+  text: 'Hi, Thanks for signing up to get updates from ofo. You\'ll be the first to know when ofo comes to your neighborhood. Cheers, The Team at ofo',
+  html: 'Hi,<br /><br />Thanks for signing up to get updates from ofo. You\'ll be the first to know when ofo comes to your neighborhood.<br /><br />Cheers,<br />The Team at ofo' }
+message sent:  { accepted: [ 'takeda55555_1228@yahoo.co.jp', 'info@ofo.com' ],
+  rejected: [],
+  response: '250 Mail OK queued as smtp3,PdOowECZcEe_eZBZSnzDIQ--.6602S2 1502640577',
+  envelope: 
+   { from: 'us@ofo.com',
+     to: [ 'takeda55555_1228@yahoo.co.jp', 'info@ofo.com' ] },
+  messageId: '<5ec10f7a-7c40-8139-657e-fdfadf985b6b@ofo.com>' }
+email to client:  { from: 'ofo <us@ofo.com>',
+  to: '"eljefesucks@yahoo.com" <eljefesucks@yahoo.com>',
+  bcc: '"Ofo" <info@ofo.com>',
+  subject: 'Thanks for contacting ofo.',
+  text: 'Hi, Thanks for signing up to get updates from ofo. You\'ll be the first to know when ofo comes to your neighborhood. Cheers, The Team at ofo',
+  html: 'Hi,<br /><br />Thanks for signing up to get updates from ofo. You\'ll be the first to know when ofo comes to your neighborhood.<br /><br />Cheers,<br />The Team at ofo' }
+message sent:  { accepted: [ 'eljefesucks@yahoo.com', 'info@ofo.com' ],
+  rejected: [],
+  response: '250 Mail OK queued as smtp3,PdOowEB5dUFiq5BZ6oPIIQ--.14720S2 1502653283',
+  envelope: 
+   { from: 'us@ofo.com',
+     to: [ 'eljefesucks@yahoo.com', 'info@ofo.com' ] },
+  messageId: '<e6876270-c6dc-6df2-d1c9-9cf07089e19f@ofo.com>' }
+email to client:  { from: 'ofo <us@ofo.com>',
+  to: '"cinwu2@yahoo.com" <cinwu2@yahoo.com>',
+  bcc: '"Ofo" <info@ofo.com>',
+  subject: 'Thanks for contacting ofo.',
+  text: 'Hi, Thanks for signing up to get updates from ofo. You\'ll be the first to know when ofo comes to your neighborhood. Cheers, The Team at ofo',
+  html: 'Hi,<br /><br />Thanks for signing up to get updates from ofo. You\'ll be the first to know when ofo comes to your neighborhood.<br /><br />Cheers,<br />The Team at ofo' }
+message sent:  { accepted: [ 'cinwu2@yahoo.com', 'info@ofo.com' ],
+  rejected: [],
+  response: '250 Mail OK queued as smtp3,PdOowEBZjUVbsZBZ7RjJIQ--.4585S2 1502654812',
+  envelope: 
+   { from: 'us@ofo.com',
+     to: [ 'cinwu2@yahoo.com', 'info@ofo.com' ] },
+  messageId: '<9d43a871-d7e8-1689-f05d-9ea2954bf316@ofo.com>' }
+email to client:  { from: 'ofo <us@ofo.com>',
+  to: 'Marta Lamanna <marta.lamanna@mail.polimi.it>',
+  bcc: 'Careers <career@ofo.com>',
+  subject: 'Thanks for contacting ofo.',
+  text: 'Hi Marta Lamanna, Thanks for contacting ofo. We have your message and someone will get back to you as soon as possible. Talk soon, The Team at ofo - Your Subject: Careers - Your Message: Hi, I\'m an Italian student, here in Shanghai for the Double degree program at Tongji University in Service Design. From September I will have the possibility to work on my thesis and find an internship. I would love to work for your company and if it\'s possible, I would send my cv and portfolio. I use ofo since I am in Shanghai and it\'s one of the best thing I found in China. It would be a great opportunity for me to work with you and contribute to this successful service!\n\nI am an enthusiast person who really likes to work in team, learning from the others and I have an excellent ability to manage and organize the job, in respect of time and deadlines. I am sure, I acquired good relational skills during different periods of study abroad thanks to which I am flexible and quick to pick up new skills.\n\nLet me know, I\'m in Shanghai if you want to meet me,\n\nI look forward to hearing from you, thank you for your consideration,\nYours sincerely\n\nMarta Lamanna\n\n\n+86 18621378257\n\n',
+  html: 'Hi Marta Lamanna, <br /><br />Thanks for contacting ofo. We have your message and someone will get back to you as soon as possible.<br /><br />Talk soon,<br />The Team at ofo<br /><br />- - - - - - - - - - - - - - - - - - - - - - - <br /><br />Your request summary is:<br /><br />Your Subject: Careers<br />Your Message: Hi, I\'m an Italian student, here in Shanghai for the Double degree program at Tongji University in Service Design. From September I will have the possibility to work on my thesis and find an internship. I would love to work for your company and if it\'s possible, I would send my cv and portfolio. I use ofo since I am in Shanghai and it\'s one of the best thing I found in China. It would be a great opportunity for me to work with you and contribute to this successful service!\n\nI am an enthusiast person who really likes to work in team, learning from the others and I have an excellent ability to manage and organize the job, in respect of time and deadlines. I am sure, I acquired good relational skills during different periods of study abroad thanks to which I am flexible and quick to pick up new skills.\n\nLet me know, I\'m in Shanghai if you want to meet me,\n\nI look forward to hearing from you, thank you for your consideration,\nYours sincerely\n\nMarta Lamanna\n\n\n+86 18621378257\n\n' }
+message sent:  { accepted: [ 'marta.lamanna@mail.polimi.it', 'career@ofo.com' ],
+  rejected: [],
+  response: '250 Mail OK queued as smtp3,PdOowECJaEeB6ZBZgaPOIQ--.1175S2 1502669187',
+  envelope: 
+   { from: 'us@ofo.com',
+     to: [ 'marta.lamanna@mail.polimi.it', 'career@ofo.com' ] },
+  messageId: '<e1c9976c-97e5-ce4f-c32d-006b7bdcda26@ofo.com>' }
+email to client:  { from: 'ofo <us@ofo.com>',
+  to: 'Amelia Carmin Lim <Amelia.Lim7@gmail.com>',
+  bcc: 'Customer Support <cs@ofo.com>',
+  subject: 'Thanks for contacting ofo.',
+  text: 'Hi Amelia Carmin Lim, Thanks for contacting ofo. We have your message and someone will get back to you as soon as possible. Talk soon, The Team at ofo - Your Subject: Customer Support - Your Message: On August 4th, while I was in Shanghai I refunded my account and I still haven\'t gotten back my money. I\'d like it back sometime soon please. Thank you.',
+  html: 'Hi Amelia Carmin Lim, <br /><br />Thanks for contacting ofo. We have your message and someone will get back to you as soon as possible.<br /><br />Talk soon,<br />The Team at ofo<br /><br />- - - - - - - - - - - - - - - - - - - - - - - <br /><br />Your request summary is:<br /><br />Your Subject: Customer Support<br />Your Message: On August 4th, while I was in Shanghai I refunded my account and I still haven\'t gotten back my money. I\'d like it back sometime soon please. Thank you.' }
+message sent:  { accepted: [ 'Amelia.Lim7@gmail.com', 'cs@ofo.com' ],
+  rejected: [],
+  response: '250 Mail OK queued as smtp3,PdOowEB54EIv+5BZNMPQIQ--.370S2 1502673713',
+  envelope: 
+   { from: 'us@ofo.com',
+     to: [ 'Amelia.Lim7@gmail.com', 'cs@ofo.com' ] },
+  messageId: '<42a86ae5-8805-6fc1-c388-d05ac2498a50@ofo.com>' }
+email to client:  { from: 'ofo <us@ofo.com>',
+  to: '"appledac@gmail.com" <appledac@gmail.com>',
+  bcc: '"Ofo" <info@ofo.com>',
+  subject: 'Thanks for contacting ofo.',
+  text: 'Hi, Thanks for signing up to get updates from ofo. You\'ll be the first to know when ofo comes to your neighborhood. Cheers, The Team at ofo',
+  html: 'Hi,<br /><br />Thanks for signing up to get updates from ofo. You\'ll be the first to know when ofo comes to your neighborhood.<br /><br />Cheers,<br />The Team at ofo' }
+message sent:  { accepted: [ 'appledac@gmail.com', 'info@ofo.com' ],
+  rejected: [],
+  response: '250 Mail OK queued as smtp3,PdOowEAJ5kVZypFZKs3xIQ--.2187S2 1502726748',
+  envelope: 
+   { from: 'us@ofo.com',
+     to: [ 'appledac@gmail.com', 'info@ofo.com' ] },
+  messageId: '<23137d97-7809-2191-f327-29845a018d74@ofo.com>' }
+email to client:  { from: 'ofo <us@ofo.com>',
+  to: 'Hunter Hughes <w.hunter.hughes@gmail.com>',
+  bcc: 'Careers <career@ofo.com>',
+  subject: 'Thanks for contacting ofo.',
+  text: 'Hi Hunter Hughes, Thanks for contacting ofo. We have your message and someone will get back to you as soon as possible. Talk soon, The Team at ofo - Your Subject: Careers - Your Message: Hello! \n\nMy name is Hunter, and I recently applied to the Launcher position in Tampa. I just wanted to do a quick follow up with my application. \n\nAll I will say now is that I\'m excited about this opportunity, and I\'d love the chance to connect in the next week to hear how I might be able to use my skills and experience to serve OfO in this capacity. \n\nPlease reach out in email or over the phone: w.hunter.hughes@gmail.com or (314) 677-7504. \n\nThanks!\n\nHunter Hughes',
+  html: 'Hi Hunter Hughes, <br /><br />Thanks for contacting ofo. We have your message and someone will get back to you as soon as possible.<br /><br />Talk soon,<br />The Team at ofo<br /><br />- - - - - - - - - - - - - - - - - - - - - - - <br /><br />Your request summary is:<br /><br />Your Subject: Careers<br />Your Message: Hello! \n\nMy name is Hunter, and I recently applied to the Launcher position in Tampa. I just wanted to do a quick follow up with my application. \n\nAll I will say now is that I\'m excited about this opportunity, and I\'d love the chance to connect in the next week to hear how I might be able to use my skills and experience to serve OfO in this capacity. \n\nPlease reach out in email or over the phone: w.hunter.hughes@gmail.com or (314) 677-7504. \n\nThanks!\n\nHunter Hughes' }
+message sent:  { accepted: [ 'w.hunter.hughes@gmail.com', 'career@ofo.com' ],
+  rejected: [],
+  response: '250 Mail OK queued as smtp3,PdOowEDZD0fqypFZW+jxIQ--.3462S2 1502726891',
+  envelope: 
+   { from: 'us@ofo.com',
+     to: [ 'w.hunter.hughes@gmail.com', 'career@ofo.com' ] },
+  messageId: '<6d245bb8-da0d-90bb-d8c3-5d2a862bb010@ofo.com>' }
+email to client:  { from: 'ofo <us@ofo.com>',
+  to: '"125091798@qq.com" <125091798@qq.com>',
+  bcc: '"Ofo" <info@ofo.com>',
+  subject: 'Thanks for contacting ofo.',
+  text: 'Hi, Thanks for signing up to get updates from ofo. You\'ll be the first to know when ofo comes to your neighborhood. Cheers, The Team at ofo',
+  html: 'Hi,<br /><br />Thanks for signing up to get updates from ofo. You\'ll be the first to know when ofo comes to your neighborhood.<br /><br />Cheers,<br />The Team at ofo' }
+message sent:  { accepted: [ '125091798@qq.com', 'info@ofo.com' ],
+  rejected: [],
+  response: '250 Mail OK queued as smtp3,PdOowEDZKkS11JFZY7HzIQ--.5275S2 1502729399',
+  envelope: 
+   { from: 'us@ofo.com',
+     to: [ '125091798@qq.com', 'info@ofo.com' ] },
+  messageId: '<9f74e681-0b1f-fe90-8cb5-8a71c607bd01@ofo.com>' }
+
+
+
+-------------------------------------
+/var/log/nginx/error.log
+-------------------------------------
+2017/08/03 00:08:01 [warn] 4214#0: duplicate MIME type "text/html" in /etc/nginx/conf.d/00_elastic_beanstalk_proxy.conf:42
+2017/08/07 19:42:32 [warn] 28624#0: duplicate MIME type "text/html" in /etc/nginx/conf.d/00_elastic_beanstalk_proxy.conf:42
+2017/08/11 19:13:23 [warn] 31690#0: duplicate MIME type "text/html" in /etc/nginx/conf.d/00_elastic_beanstalk_proxy.conf:42
+
+
+
+-------------------------------------
+/var/log/eb-activity.log
+-------------------------------------
+[2017-08-11T19:13:20.790Z] INFO  [30469] - [Application update app-59be-170811_151159@11/AppDeployStage1/AppDeployEnactHook/10stop.sh] : Completed activity. Result:
+  + /opt/elasticbeanstalk/containerfiles/ebnode.py --action stop-all
+  nodejs stop/waiting
+  nginx stop/waiting
+  status: Unknown job: httpd
+  status: Unknown job: httpd
+  Job already stopped. Not stopping again.
+  Job already stopped. Not stopping again.
+  Did not find to find status of init job. Assuming stopped.
+  Did not find to find status of init job. Assuming stopped.
+[2017-08-11T19:13:20.790Z] INFO  [30469] - [Application update app-59be-170811_151159@11/AppDeployStage1/AppDeployEnactHook/20clean.sh] : Starting activity...
+[2017-08-11T19:13:21.157Z] INFO  [30469] - [Application update app-59be-170811_151159@11/AppDeployStage1/AppDeployEnactHook/20clean.sh] : Completed activity. Result:
+  ++ /opt/elasticbeanstalk/bin/get-config container -k app_base_dir
+  + EB_APP_BASE_DIR=/var/app
+  + rm -rf /var/app
+[2017-08-11T19:13:21.157Z] INFO  [30469] - [Application update app-59be-170811_151159@11/AppDeployStage1/AppDeployEnactHook/30app_deploy.sh] : Starting activity...
+[2017-08-11T19:13:21.617Z] INFO  [30469] - [Application update app-59be-170811_151159@11/AppDeployStage1/AppDeployEnactHook/30app_deploy.sh] : Completed activity. Result:
+  ++ /opt/elasticbeanstalk/bin/get-config container -k app_base_dir
+  + EB_APP_BASE_DIR=/var/app
+  ++ /opt/elasticbeanstalk/bin/get-config container -k app_staging_dir
+  + EB_APP_STAGING_DIR=/tmp/deployment/application
+  ++ /opt/elasticbeanstalk/bin/get-config container -k app_deploy_dir
+  + EB_APP_DEPLOY_DIR=/var/app/current
+  ++ /opt/elasticbeanstalk/bin/get-config container -k app_user
+  + EB_APP_USER=nodejs
+  + mkdir /var/app
+  + mv /tmp/deployment/application /var/app/current
+  + chown -R nodejs:nodejs /var/app/current
+[2017-08-11T19:13:21.617Z] INFO  [30469] - [Application update app-59be-170811_151159@11/AppDeployStage1/AppDeployEnactHook/40config_deploy.sh] : Starting activity...
+[2017-08-11T19:13:21.719Z] INFO  [30469] - [Application update app-59be-170811_151159@11/AppDeployStage1/AppDeployEnactHook/40config_deploy.sh] : Completed activity. Result:
+  ++ /opt/elasticbeanstalk/bin/get-config container -k config_staging_dir
+  + EB_CONFIG_STAGING_DIR=/tmp/deployment/config
+  ++ ls /tmp/deployment/config
+  + for i in '$(ls $EB_CONFIG_STAGING_DIR)'
+  ++ echo '#etc#init#nginx.conf'
+  ++ sed -e 's/#/\//g'
+  + FILE_NAME=/etc/init/nginx.conf
+  + /bin/cp /tmp/deployment/config/#etc#init#nginx.conf /etc/init/nginx.conf
+  + for i in '$(ls $EB_CONFIG_STAGING_DIR)'
+  ++ echo '#etc#init#nodejs.conf'
+  ++ sed -e 's/#/\//g'
+  + FILE_NAME=/etc/init/nodejs.conf
+  + /bin/cp /tmp/deployment/config/#etc#init#nodejs.conf /etc/init/nodejs.conf
+  + for i in '$(ls $EB_CONFIG_STAGING_DIR)'
+  ++ echo '#etc#nginx#conf.d#00_elastic_beanstalk_proxy.conf'
+  ++ sed -e 's/#/\//g'
+  + FILE_NAME=/etc/nginx/conf.d/00_elastic_beanstalk_proxy.conf
+  + /bin/cp /tmp/deployment/config/#etc#nginx#conf.d#00_elastic_beanstalk_proxy.conf /etc/nginx/conf.d/00_elastic_beanstalk_proxy.conf
+  + for i in '$(ls $EB_CONFIG_STAGING_DIR)'
+  ++ echo '#etc#nginx#nginx.conf'
+  ++ sed -e 's/#/\//g'
+  + FILE_NAME=/etc/nginx/nginx.conf
+  + /bin/cp /tmp/deployment/config/#etc#nginx#nginx.conf /etc/nginx/nginx.conf
+[2017-08-11T19:13:21.719Z] INFO  [30469] - [Application update app-59be-170811_151159@11/AppDeployStage1/AppDeployEnactHook/50start.sh] : Starting activity...
+[2017-08-11T19:13:23.191Z] INFO  [30469] - [Application update app-59be-170811_151159@11/AppDeployStage1/AppDeployEnactHook/50start.sh] : Completed activity. Result:
+  + /opt/elasticbeanstalk/containerfiles/ebnode.py --action start-all
+  nodejs start/running, process 31675
+  nginx start/running, process 31690
+[2017-08-11T19:13:23.191Z] INFO  [30469] - [Application update app-59be-170811_151159@11/AppDeployStage1/AppDeployEnactHook/60monitor_pids.sh] : Starting activity...
+[2017-08-11T19:13:23.397Z] INFO  [30469] - [Application update app-59be-170811_151159@11/AppDeployStage1/AppDeployEnactHook/60monitor_pids.sh] : Completed activity. Result:
+  + '[' -d /etc/healthd ']'
+  ++ /opt/elasticbeanstalk/bin/get-config optionsettings --namespace aws:elasticbeanstalk:container:nodejs --option-name ProxyServer
+  + PROXY_SERVER=nginx
+  + case "$PROXY_SERVER" in
+  + /opt/elasticbeanstalk/bin/healthd-track-pidfile --proxy nginx
+  + /opt/elasticbeanstalk/bin/healthd-track-pidfile --name application --location /var/run/nodejs.pid
+[2017-08-11T19:13:23.397Z] INFO  [30469] - [Application update app-59be-170811_151159@11/AppDeployStage1/AppDeployEnactHook/70restart_healthd.sh] : Starting activity...
+[2017-08-11T19:13:23.497Z] INFO  [30469] - [Application update app-59be-170811_151159@11/AppDeployStage1/AppDeployEnactHook/70restart_healthd.sh] : Completed activity. Result:
+  + '[' -d /etc/healthd ']'
+  ++ /opt/elasticbeanstalk/bin/get-config optionsettings --namespace aws:elasticbeanstalk:container:nodejs --option-name ProxyServer
+  + PROXY_SERVER=nginx
+  + '[' -f /var/elasticbeanstalk/healthd/current_proxy_server ']'
+  ++ cat /var/elasticbeanstalk/healthd/current_proxy_server
+  + CURRENT_PROXY_SERVER=nginx
+  + '[' nginx '!=' nginx ']'
+  + echo nginx
+[2017-08-11T19:13:23.497Z] INFO  [30469] - [Application update app-59be-170811_151159@11/AppDeployStage1/AppDeployEnactHook] : Completed activity. Result:
+  Successfully execute hooks in directory /opt/elasticbeanstalk/hooks/appdeploy/enact.
+[2017-08-11T19:13:23.498Z] INFO  [30469] - [Application update app-59be-170811_151159@11/AppDeployStage1/AppDeployPostHook] : Starting activity...
+[2017-08-11T19:13:23.498Z] INFO  [30469] - [Application update app-59be-170811_151159@11/AppDeployStage1/AppDeployPostHook/00_set_tmp_permissions.sh] : Starting activity...
+[2017-08-11T19:13:23.532Z] INFO  [30469] - [Application update app-59be-170811_151159@11/AppDeployStage1/AppDeployPostHook/00_set_tmp_permissions.sh] : Completed activity.
+[2017-08-11T19:13:23.532Z] INFO  [30469] - [Application update app-59be-170811_151159@11/AppDeployStage1/AppDeployPostHook] : Completed activity. Result:
+  Successfully execute hooks in directory /opt/elasticbeanstalk/hooks/appdeploy/post.
+[2017-08-11T19:13:23.532Z] INFO  [30469] - [Application update app-59be-170811_151159@11/AppDeployStage1] : Completed activity. Result:
+  Application version switch - Command CMD-AppDeploy stage 1 completed
+[2017-08-11T19:13:23.532Z] INFO  [30469] - [Application update app-59be-170811_151159@11/AddonsAfter] : Starting activity...
+[2017-08-11T19:13:23.532Z] INFO  [30469] - [Application update app-59be-170811_151159@11/AddonsAfter/ConfigLogRotation] : Starting activity...
+[2017-08-11T19:13:23.533Z] INFO  [30469] - [Application update app-59be-170811_151159@11/AddonsAfter/ConfigLogRotation/10-config.sh] : Starting activity...
+[2017-08-11T19:13:23.632Z] INFO  [30469] - [Application update app-59be-170811_151159@11/AddonsAfter/ConfigLogRotation/10-config.sh] : Completed activity. Result:
+  Disabled forced hourly log rotation.
+[2017-08-11T19:13:23.632Z] INFO  [30469] - [Application update app-59be-170811_151159@11/AddonsAfter/ConfigLogRotation] : Completed activity. Result:
+  Successfully execute hooks in directory /opt/elasticbeanstalk/addons/logpublish/hooks/config.
+[2017-08-11T19:13:23.632Z] INFO  [30469] - [Application update app-59be-170811_151159@11/AddonsAfter] : Completed activity.
+[2017-08-11T19:13:23.633Z] INFO  [30469] - [Application update app-59be-170811_151159@11] : Completed activity. Result:
+  Application update - Command CMD-AppDeploy succeeded
+[2017-08-14T19:10:03.074Z] INFO  [18788] - [CMD-TailLogs] : Starting activity...
+[2017-08-14T19:10:03.074Z] INFO  [18788] - [CMD-TailLogs/AddonsBefore] : Starting activity...
+[2017-08-14T19:10:03.074Z] INFO  [18788] - [CMD-TailLogs/AddonsBefore] : Completed activity.
+[2017-08-14T19:10:03.074Z] INFO  [18788] - [CMD-TailLogs/TailLogs] : Starting activity...
+[2017-08-14T19:10:03.074Z] INFO  [18788] - [CMD-TailLogs/TailLogs/TailLogs] : Starting activity...
+
+
+
+-------------------------------------
+/var/log/nginx/access.log
+-------------------------------------
+172.31.29.124 - - [14/Aug/2017:19:01:34 +0000] "GET /images/footer/social-icons/facebook.svg HTTP/1.1" 200 468 "http://www.ofo.so/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36 Edge/15.15063" "75.173.148.146"
+172.31.29.124 - - [14/Aug/2017:19:01:34 +0000] "GET /images/footer/social-icons/twitter.svg HTTP/1.1" 200 1084 "http://www.ofo.so/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36 Edge/15.15063" "75.173.148.146"
+172.31.29.124 - - [14/Aug/2017:19:01:34 +0000] "GET /images/footer/social-icons/instagram.svg HTTP/1.1" 200 852 "http://www.ofo.so/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36 Edge/15.15063" "75.173.148.146"
+172.31.38.221 - - [14/Aug/2017:19:01:34 +0000] "GET /images/Ofo-Favicon.png HTTP/1.1" 200 496 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36 Edge/15.15063" "75.173.148.146"
+172.31.29.124 - - [14/Aug/2017:19:01:34 +0000] "GET /images/footer/badges/appStoreBadge.svg HTTP/1.1" 200 9525 "http://www.ofo.so/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36 Edge/15.15063" "75.173.148.146"
+172.31.29.124 - - [14/Aug/2017:19:01:34 +0000] "GET /images/footer/badges/googlePlayStore.svg HTTP/1.1" 200 5619 "http://www.ofo.so/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36 Edge/15.15063" "75.173.148.146"
+172.31.29.124 - - [14/Aug/2017:19:01:34 +0000] "GET /images/bike-on-wall.jpg HTTP/1.1" 200 398289 "http://www.ofo.so/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36 Edge/15.15063" "75.173.148.146"
+172.31.29.124 - - [14/Aug/2017:19:01:34 +0000] "GET /images/hero/wave-banana.svg HTTP/1.1" 200 289 "http://www.ofo.so/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36 Edge/15.15063" "75.173.148.146"
+172.31.29.124 - - [14/Aug/2017:19:01:34 +0000] "GET /images/hero/wave-white.svg HTTP/1.1" 200 285 "http://www.ofo.so/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36 Edge/15.15063" "75.173.148.146"
+172.31.29.124 - - [14/Aug/2017:19:01:34 +0000] "GET /images/transit-for-all-woman.jpg HTTP/1.1" 200 249489 "http://www.ofo.so/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36 Edge/15.15063" "75.173.148.146"
+172.31.29.124 - - [14/Aug/2017:19:01:35 +0000] "GET /images/setting-sun.svg HTTP/1.1" 200 222 "http://www.ofo.so/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36 Edge/15.15063" "75.173.148.146"
+172.31.29.124 - - [14/Aug/2017:19:01:35 +0000] "GET /images/footer/background.svg HTTP/1.1" 200 285 "http://www.ofo.so/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36 Edge/15.15063" "75.173.148.146"
+172.31.29.124 - - [14/Aug/2017:19:01:48 +0000] "GET /images/zero-investment.jpg HTTP/1.1" 200 500358 "http://www.ofo.so/city-benefits" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36 Edge/15.15063" "75.173.148.146"
+172.31.29.124 - - [14/Aug/2017:19:01:48 +0000] "GET /images/cities/economic-boost.svg HTTP/1.1" 200 9211 "http://www.ofo.so/city-benefits" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36 Edge/15.15063" "75.173.148.146"
+172.31.29.124 - - [14/Aug/2017:19:01:48 +0000] "GET /images/cities-accent.jpg HTTP/1.1" 200 370221 "http://www.ofo.so/city-benefits" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36 Edge/15.15063" "75.173.148.146"
+172.31.29.124 - - [14/Aug/2017:19:01:48 +0000] "GET /images/cities/filling-the-gaps-2.svg HTTP/1.1" 200 45129 "http://www.ofo.so/city-benefits" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36 Edge/15.15063" "75.173.148.146"
+172.31.29.124 - - [14/Aug/2017:19:01:48 +0000] "GET /images/cities/safety-first.svg HTTP/1.1" 200 16040 "http://www.ofo.so/city-benefits" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36 Edge/15.15063" "75.173.148.146"
+172.31.29.124 - - [14/Aug/2017:19:01:48 +0000] "GET /images/hero/hero-default.jpg HTTP/1.1" 200 568426 "http://www.ofo.so/city-benefits" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36 Edge/15.15063" "75.173.148.146"
+172.31.29.124 - - [14/Aug/2017:19:01:48 +0000] "GET /images/widescreen.jpg HTTP/1.1" 200 573317 "http://www.ofo.so/city-benefits" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36 Edge/15.15063" "75.173.148.146"
+172.31.29.124 - - [14/Aug/2017:19:02:20 +0000] "GET /activity/active-5.html HTTP/1.1" 200 515 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)" "40.77.167.40"
+172.31.29.124 - - [14/Aug/2017:19:02:29 +0000] "GET /build/bundle.js HTTP/1.1" 200 1527359 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)" "157.55.39.83"
+172.31.29.124 - - [14/Aug/2017:19:02:33 +0000] "GET /build/bundle.js HTTP/1.1" 200 1527359 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)" "157.55.39.83"
+172.31.38.221 - - [14/Aug/2017:19:03:07 +0000] "GET /images/footer/badges/appStoreBadge.svg HTTP/1.1" 304 0 "-" "Googlebot-Image/1.0" "66.249.64.24"
+172.31.38.221 - - [14/Aug/2017:19:04:07 +0000] "GET / HTTP/1.1" 200 515 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36" "72.80.70.48"
+172.31.38.221 - - [14/Aug/2017:19:04:07 +0000] "GET /build/main.bundle.css HTTP/1.1" 200 14957 "http://ofo.com/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36" "72.80.70.48"
+172.31.38.221 - - [14/Aug/2017:19:04:07 +0000] "GET /build/bundle.js HTTP/1.1" 200 1527359 "http://ofo.com/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36" "72.80.70.48"
+172.31.38.221 - - [14/Aug/2017:19:04:08 +0000] "GET /images/hero/wave-banana.svg HTTP/1.1" 200 289 "http://ofo.com/build/main.bundle.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36" "72.80.70.48"
+172.31.38.221 - - [14/Aug/2017:19:04:08 +0000] "GET /images/bike-on-wall.jpg HTTP/1.1" 200 398289 "http://ofo.com/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36" "72.80.70.48"
+172.31.38.221 - - [14/Aug/2017:19:04:08 +0000] "GET /images/setting-sun.svg HTTP/1.1" 200 222 "http://ofo.com/build/main.bundle.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36" "72.80.70.48"
+172.31.38.221 - - [14/Aug/2017:19:04:08 +0000] "GET /images/footer/background.svg HTTP/1.1" 200 285 "http://ofo.com/build/main.bundle.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36" "72.80.70.48"
+172.31.38.221 - - [14/Aug/2017:19:04:08 +0000] "GET /images/two-bikes.svg HTTP/1.1" 200 42671 "http://ofo.com/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36" "72.80.70.48"
+172.31.38.221 - - [14/Aug/2017:19:04:08 +0000] "GET /images/bike-love.jpg HTTP/1.1" 200 147551 "http://ofo.com/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36" "72.80.70.48"
+172.31.38.221 - - [14/Aug/2017:19:04:08 +0000] "GET /images/hotspot-plus.svg HTTP/1.1" 200 724 "http://ofo.com/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36" "72.80.70.48"
+172.31.38.221 - - [14/Aug/2017:19:04:08 +0000] "GET /images/hero/wave-white.svg HTTP/1.1" 200 285 "http://ofo.com/build/main.bundle.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36" "72.80.70.48"
+172.31.38.221 - - [14/Aug/2017:19:04:08 +0000] "GET /images/transit-for-all-woman.jpg HTTP/1.1" 200 249489 "http://ofo.com/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36" "72.80.70.48"
+172.31.38.221 - - [14/Aug/2017:19:04:08 +0000] "GET /images/featured-logos/reuters.svg HTTP/1.1" 200 88616 "http://ofo.com/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36" "72.80.70.48"
+172.31.38.221 - - [14/Aug/2017:19:04:08 +0000] "GET /images/home/how_to_1.svg HTTP/1.1" 200 107761 "http://ofo.com/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36" "72.80.70.48"
+172.31.38.221 - - [14/Aug/2017:19:04:08 +0000] "GET /images/featured-logos/bloomberg.svg HTTP/1.1" 200 4273 "http://ofo.com/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36" "72.80.70.48"
+172.31.38.221 - - [14/Aug/2017:19:04:08 +0000] "GET /images/featured-logos/mashable.svg HTTP/1.1" 200 4113 "http://ofo.com/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36" "72.80.70.48"
+172.31.38.221 - - [14/Aug/2017:19:04:08 +0000] "GET /images/featured-logos/forbes.svg HTTP/1.1" 200 3961 "http://ofo.com/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36" "72.80.70.48"
+172.31.38.221 - - [14/Aug/2017:19:04:08 +0000] "GET /images/footer/social-icons/facebook.svg HTTP/1.1" 200 468 "http://ofo.com/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36" "72.80.70.48"
+172.31.38.221 - - [14/Aug/2017:19:04:08 +0000] "GET /images/footer/social-icons/instagram.svg HTTP/1.1" 200 852 "http://ofo.com/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36" "72.80.70.48"
+172.31.38.221 - - [14/Aug/2017:19:04:08 +0000] "GET /images/featured-logos/cnbc.svg HTTP/1.1" 200 3070 "http://ofo.com/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36" "72.80.70.48"
+172.31.38.221 - - [14/Aug/2017:19:04:08 +0000] "GET /images/featured-logos/tech-crunch.svg HTTP/1.1" 200 4126 "http://ofo.com/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36" "72.80.70.48"
+172.31.38.221 - - [14/Aug/2017:19:04:08 +0000] "GET /images/featured-logos/wall-street-journal.svg HTTP/1.1" 200 11180 "http://ofo.com/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36" "72.80.70.48"
+172.31.38.221 - - [14/Aug/2017:19:04:08 +0000] "GET /images/footer/social-icons/twitter.svg HTTP/1.1" 200 1084 "http://ofo.com/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36" "72.80.70.48"
+172.31.38.221 - - [14/Aug/2017:19:04:08 +0000] "GET /images/footer/badges/googlePlayStore.svg HTTP/1.1" 200 5619 "http://ofo.com/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36" "72.80.70.48"
+172.31.38.221 - - [14/Aug/2017:19:04:08 +0000] "GET /images/footer/badges/appStoreBadge.svg HTTP/1.1" 200 9525 "http://ofo.com/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36" "72.80.70.48"
+172.31.38.221 - - [14/Aug/2017:19:04:57 +0000] "GET /images/hero/hero-default.jpg HTTP/1.1" 200 568426 "http://ofo.com/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36" "72.80.70.48"
+172.31.38.221 - - [14/Aug/2017:19:04:57 +0000] "GET /images/widescreen.jpg HTTP/1.1" 200 573317 "http://ofo.com/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36" "72.80.70.48"
+172.31.38.221 - - [14/Aug/2017:19:04:57 +0000] "GET /images/cities/economic-boost.svg HTTP/1.1" 200 9211 "http://ofo.com/city-benefits" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36" "72.80.70.48"
+172.31.38.221 - - [14/Aug/2017:19:04:57 +0000] "GET /images/cities/filling-the-gaps-2.svg HTTP/1.1" 200 45129 "http://ofo.com/city-benefits" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36" "72.80.70.48"
+172.31.38.221 - - [14/Aug/2017:19:04:57 +0000] "GET /images/cities/safety-first.svg HTTP/1.1" 200 16040 "http://ofo.com/city-benefits" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36" "72.80.70.48"
+172.31.38.221 - - [14/Aug/2017:19:04:57 +0000] "GET /images/zero-investment.jpg HTTP/1.1" 200 500358 "http://ofo.com/city-benefits" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36" "72.80.70.48"
+172.31.38.221 - - [14/Aug/2017:19:04:57 +0000] "GET /images/cities-accent.jpg HTTP/1.1" 200 370221 "http://ofo.com/city-benefits" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36" "72.80.70.48"
+172.31.38.221 - - [14/Aug/2017:19:04:58 +0000] "GET /images/hero/universities.jpg HTTP/1.1" 200 998350 "http://ofo.com/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36" "72.80.70.48"
+172.31.38.221 - - [14/Aug/2017:19:04:58 +0000] "GET /images/universities/sustainable-transit.svg HTTP/1.1" 200 4143 "http://ofo.com/campus-benefits" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36" "72.80.70.48"
+172.31.38.221 - - [14/Aug/2017:19:04:58 +0000] "GET /images/bike.jpg HTTP/1.1" 200 273019 "http://ofo.com/campus-benefits" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36" "72.80.70.48"
+172.31.38.221 - - [14/Aug/2017:19:04:58 +0000] "GET /images/universities-accent.jpg HTTP/1.1" 200 297529 "http://ofo.com/campus-benefits" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36" "72.80.70.48"
+172.31.38.221 - - [14/Aug/2017:19:04:58 +0000] "GET /images/universities/clean-up.svg HTTP/1.1" 200 19320 "http://ofo.com/campus-benefits" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36" "72.80.70.48"
+172.31.38.221 - - [14/Aug/2017:19:04:59 +0000] "GET /images/hero/background-div-alt.svg HTTP/1.1" 200 336 "http://ofo.com/build/main.bundle.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36" "72.80.70.48"
+172.31.38.221 - - [14/Aug/2017:19:04:59 +0000] "GET /api/faqs HTTP/1.1" 200 7877 "http://ofo.com/faq" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36" "72.80.70.48"
+172.31.38.221 - - [14/Aug/2017:19:04:59 +0000] "GET /api/categories HTTP/1.1" 200 8056 "http://ofo.com/faq" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36" "72.80.70.48"
+172.31.38.221 - - [14/Aug/2017:19:04:59 +0000] "GET /images/icons/arrow.png HTTP/1.1" 200 1087 "http://ofo.com/faq" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36" "72.80.70.48"
+172.31.38.221 - - [14/Aug/2017:19:05:02 +0000] "GET /api/faqs HTTP/1.1" 304 0 "http://ofo.com/faq" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36" "72.80.70.48"
+172.31.38.221 - - [14/Aug/2017:19:05:02 +0000] "GET /api/categories HTTP/1.1" 304 0 "http://ofo.com/faq" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36" "72.80.70.48"
+172.31.29.124 - - [14/Aug/2017:19:07:47 +0000] "GET /robots.txt HTTP/1.1" 200 515 "-" "Mozilla/5.0 (compatible; SiteExplorer/1.1b; +http://siteexplorer.info/Backlink-Checker-Spider/)" "167.114.219.41"
+172.31.29.124 - - [14/Aug/2017:19:08:01 +0000] "GET / HTTP/1.1" 200 6313 "-" "Mozilla/5.0 (compatible; SiteExplorer/1.1b; +http://siteexplorer.info/Backlink-Checker-Spider/)" "167.114.219.41"
+172.31.38.221 - - [14/Aug/2017:19:08:44 +0000] "GET / HTTP/1.1" 200 515 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_3 like Mac OS X) AppleWebKit/603.3.8 (KHTML, like Gecko) Version/10.0 Mobile/14G60 Safari/602.1" "60.108.147.188"
+172.31.38.221 - - [14/Aug/2017:19:08:44 +0000] "GET /build/main.bundle.css HTTP/1.1" 200 14957 "https://m.ofo.so/" "Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_3 like Mac OS X) AppleWebKit/603.3.8 (KHTML, like Gecko) Version/10.0 Mobile/14G60 Safari/602.1" "60.108.147.188"
+172.31.38.221 - - [14/Aug/2017:19:08:44 +0000] "GET /build/bundle.js HTTP/1.1" 200 1527359 "https://m.ofo.so/" "Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_3 like Mac OS X) AppleWebKit/603.3.8 (KHTML, like Gecko) Version/10.0 Mobile/14G60 Safari/602.1" "60.108.147.188"
+172.31.38.221 - - [14/Aug/2017:19:08:46 +0000] "GET /images/two-bikes.svg HTTP/1.1" 200 42671 "https://m.ofo.so/" "Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_3 like Mac OS X) AppleWebKit/603.3.8 (KHTML, like Gecko) Version/10.0 Mobile/14G60 Safari/602.1" "60.108.147.188"
+172.31.38.221 - - [14/Aug/2017:19:08:46 +0000] "GET /images/home/how_to_1.svg HTTP/1.1" 200 107761 "https://m.ofo.so/" "Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_3 like Mac OS X) AppleWebKit/603.3.8 (KHTML, like Gecko) Version/10.0 Mobile/14G60 Safari/602.1" "60.108.147.188"
+172.31.38.221 - - [14/Aug/2017:19:08:46 +0000] "GET /images/featured-logos/bloomberg.svg HTTP/1.1" 200 4273 "https://m.ofo.so/" "Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_3 like Mac OS X) AppleWebKit/603.3.8 (KHTML, like Gecko) Version/10.0 Mobile/14G60 Safari/602.1" "60.108.147.188"
+172.31.38.221 - - [14/Aug/2017:19:08:46 +0000] "GET /images/featured-logos/forbes.svg HTTP/1.1" 200 3961 "https://m.ofo.so/" "Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_3 like Mac OS X) AppleWebKit/603.3.8 (KHTML, like Gecko) Version/10.0 Mobile/14G60 Safari/602.1" "60.108.147.188"
+172.31.38.221 - - [14/Aug/2017:19:08:46 +0000] "GET /images/bike-love.jpg HTTP/1.1" 200 147551 "https://m.ofo.so/" "Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_3 like Mac OS X) AppleWebKit/603.3.8 (KHTML, like Gecko) Version/10.0 Mobile/14G60 Safari/602.1" "60.108.147.188"
+172.31.38.221 - - [14/Aug/2017:19:08:46 +0000] "GET /images/hotspot-plus.svg HTTP/1.1" 200 724 "https://m.ofo.so/" "Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_3 like Mac OS X) AppleWebKit/603.3.8 (KHTML, like Gecko) Version/10.0 Mobile/14G60 Safari/602.1" "60.108.147.188"
+172.31.38.221 - - [14/Aug/2017:19:08:47 +0000] "GET /images/featured-logos/mashable.svg HTTP/1.1" 200 4113 "https://m.ofo.so/" "Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_3 like Mac OS X) AppleWebKit/603.3.8 (KHTML, like Gecko) Version/10.0 Mobile/14G60 Safari/602.1" "60.108.147.188"
+172.31.38.221 - - [14/Aug/2017:19:08:47 +0000] "GET /images/featured-logos/reuters.svg HTTP/1.1" 200 88616 "https://m.ofo.so/" "Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_3 like Mac OS X) AppleWebKit/603.3.8 (KHTML, like Gecko) Version/10.0 Mobile/14G60 Safari/602.1" "60.108.147.188"
+172.31.38.221 - - [14/Aug/2017:19:08:47 +0000] "GET /images/featured-logos/cnbc.svg HTTP/1.1" 200 3070 "https://m.ofo.so/" "Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_3 like Mac OS X) AppleWebKit/603.3.8 (KHTML, like Gecko) Version/10.0 Mobile/14G60 Safari/602.1" "60.108.147.188"
+172.31.38.221 - - [14/Aug/2017:19:08:47 +0000] "GET /images/featured-logos/tech-crunch.svg HTTP/1.1" 200 4126 "https://m.ofo.so/" "Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_3 like Mac OS X) AppleWebKit/603.3.8 (KHTML, like Gecko) Version/10.0 Mobile/14G60 Safari/602.1" "60.108.147.188"
+172.31.38.221 - - [14/Aug/2017:19:08:47 +0000] "GET /images/featured-logos/wall-street-journal.svg HTTP/1.1" 200 11180 "https://m.ofo.so/" "Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_3 like Mac OS X) AppleWebKit/603.3.8 (KHTML, like Gecko) Version/10.0 Mobile/14G60 Safari/602.1" "60.108.147.188"
+172.31.38.221 - - [14/Aug/2017:19:08:47 +0000] "GET /images/footer/social-icons/facebook.svg HTTP/1.1" 200 468 "https://m.ofo.so/" "Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_3 like Mac OS X) AppleWebKit/603.3.8 (KHTML, like Gecko) Version/10.0 Mobile/14G60 Safari/602.1" "60.108.147.188"
+172.31.38.221 - - [14/Aug/2017:19:08:47 +0000] "GET /images/footer/social-icons/twitter.svg HTTP/1.1" 200 1084 "https://m.ofo.so/" "Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_3 like Mac OS X) AppleWebKit/603.3.8 (KHTML, like Gecko) Version/10.0 Mobile/14G60 Safari/602.1" "60.108.147.188"
+172.31.38.221 - - [14/Aug/2017:19:08:47 +0000] "GET /images/footer/social-icons/instagram.svg HTTP/1.1" 200 852 "https://m.ofo.so/" "Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_3 like Mac OS X) AppleWebKit/603.3.8 (KHTML, like Gecko) Version/10.0 Mobile/14G60 Safari/602.1" "60.108.147.188"
+172.31.38.221 - - [14/Aug/2017:19:08:47 +0000] "GET /images/footer/badges/appStoreBadge.svg HTTP/1.1" 200 9525 "https://m.ofo.so/" "Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_3 like Mac OS X) AppleWebKit/603.3.8 (KHTML, like Gecko) Version/10.0 Mobile/14G60 Safari/602.1" "60.108.147.188"
+172.31.38.221 - - [14/Aug/2017:19:08:47 +0000] "GET /images/footer/badges/googlePlayStore.svg HTTP/1.1" 200 5619 "https://m.ofo.so/" "Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_3 like Mac OS X) AppleWebKit/603.3.8 (KHTML, like Gecko) Version/10.0 Mobile/14G60 Safari/602.1" "60.108.147.188"
+172.31.38.221 - - [14/Aug/2017:19:08:47 +0000] "GET /images/bike-on-wall.jpg HTTP/1.1" 200 398289 "https://m.ofo.so/" "Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_3 like Mac OS X) AppleWebKit/603.3.8 (KHTML, like Gecko) Version/10.0 Mobile/14G60 Safari/602.1" "60.108.147.188"
+172.31.38.221 - - [14/Aug/2017:19:08:47 +0000] "GET /images/hero/wave-banana.svg HTTP/1.1" 200 289 "https://m.ofo.so/" "Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_3 like Mac OS X) AppleWebKit/603.3.8 (KHTML, like Gecko) Version/10.0 Mobile/14G60 Safari/602.1" "60.108.147.188"
+172.31.38.221 - - [14/Aug/2017:19:08:47 +0000] "GET /images/hero/wave-white.svg HTTP/1.1" 200 285 "https://m.ofo.so/" "Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_3 like Mac OS X) AppleWebKit/603.3.8 (KHTML, like Gecko) Version/10.0 Mobile/14G60 Safari/602.1" "60.108.147.188"
+172.31.38.221 - - [14/Aug/2017:19:08:47 +0000] "GET /images/transit-for-all-woman.jpg HTTP/1.1" 200 249489 "https://m.ofo.so/" "Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_3 like Mac OS X) AppleWebKit/603.3.8 (KHTML, like Gecko) Version/10.0 Mobile/14G60 Safari/602.1" "60.108.147.188"
+172.31.38.221 - - [14/Aug/2017:19:08:47 +0000] "GET /images/setting-sun.svg HTTP/1.1" 200 222 "https://m.ofo.so/" "Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_3 like Mac OS X) AppleWebKit/603.3.8 (KHTML, like Gecko) Version/10.0 Mobile/14G60 Safari/602.1" "60.108.147.188"
+172.31.38.221 - - [14/Aug/2017:19:08:47 +0000] "GET /images/footer/background.svg HTTP/1.1" 200 285 "https://m.ofo.so/" "Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_3 like Mac OS X) AppleWebKit/603.3.8 (KHTML, like Gecko) Version/10.0 Mobile/14G60 Safari/602.1" "60.108.147.188"
+172.31.38.221 - - [14/Aug/2017:19:08:57 +0000] "GET /images/home/how_to_2.svg HTTP/1.1" 200 72656 "https://m.ofo.so/" "Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_3 like Mac OS X) AppleWebKit/603.3.8 (KHTML, like Gecko) Version/10.0 Mobile/14G60 Safari/602.1" "60.108.147.188"
+172.31.38.221 - - [14/Aug/2017:19:09:02 +0000] "GET /images/home/how_to_3.svg HTTP/1.1" 200 17188 "https://m.ofo.so/" "Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_3 like Mac OS X) AppleWebKit/603.3.8 (KHTML, like Gecko) Version/10.0 Mobile/14G60 Safari/602.1" "60.108.147.188"
+172.31.38.221 - - [14/Aug/2017:19:09:03 +0000] "GET /images/home/how_to_2.svg HTTP/1.1" 304 0 "https://m.ofo.so/" "Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_3 like Mac OS X) AppleWebKit/603.3.8 (KHTML, like Gecko) Version/10.0 Mobile/14G60 Safari/602.1" "60.108.147.188"
+172.31.38.221 - - [14/Aug/2017:19:09:08 +0000] "GET /images/home/how_to_3.svg HTTP/1.1" 304 0 "https://m.ofo.so/" "Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_3 like Mac OS X) AppleWebKit/603.3.8 (KHTML, like Gecko) Version/10.0 Mobile/14G60 Safari/602.1" "60.108.147.188"
+172.31.38.221 - - [14/Aug/2017:19:09:13 +0000] "GET /images/home/how_to_4.svg HTTP/1.1" 200 90016 "https://m.ofo.so/" "Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_3 like Mac OS X) AppleWebKit/603.3.8 (KHTML, like Gecko) Version/10.0 Mobile/14G60 Safari/602.1" "60.108.147.188"
+172.31.38.221 - - [14/Aug/2017:19:09:18 +0000] "GET /images/home/how_to_1.svg HTTP/1.1" 304 0 "https://m.ofo.so/" "Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_3 like Mac OS X) AppleWebKit/603.3.8 (KHTML, like Gecko) Version/10.0 Mobile/14G60 Safari/602.1" "60.108.147.188"
+172.31.38.221 - - [14/Aug/2017:19:09:51 +0000] "GET /images/home/how_to_2.svg HTTP/1.1" 304 0 "https://m.ofo.so/" "Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_3 like Mac OS X) AppleWebKit/603.3.8 (KHTML, like Gecko) Version/10.0 Mobile/14G60 Safari/602.1" "60.108.147.188"
+
+
+
+-------------------------------------
+/var/log/eb-commandprocessor.log
+-------------------------------------
+[2017-08-07T19:41:13.330Z] INFO  [27326] : Executing command CMD-AppDeploy activities...
+[2017-08-07T19:41:13.330Z] DEBUG [27326] : Setting environment variables..
+[2017-08-07T19:41:13.330Z] INFO  [27326] : Running AddonsBefore for command CMD-AppDeploy...
+[2017-08-07T19:41:13.670Z] DEBUG [27326] : Running stages of Command CMD-AppDeploy from stage 0 to stage 1...
+[2017-08-07T19:41:13.670Z] INFO  [27326] : Running stage 0 of command CMD-AppDeploy...
+[2017-08-07T19:41:13.670Z] INFO  [27326] : Running leader election...
+[2017-08-07T19:41:14.195Z] INFO  [27326] : Instance is Leader.
+[2017-08-07T19:41:14.195Z] DEBUG [27326] : Loaded 6 actions for stage 0.
+[2017-08-07T19:41:14.195Z] INFO  [27326] : Running 1 of 6 actions: InfraWriteConfig...
+[2017-08-07T19:41:14.202Z] INFO  [27326] : Running 2 of 6 actions: DownloadSourceBundle...
+[2017-08-07T19:41:15.071Z] INFO  [27326] : Running 3 of 6 actions: EbExtensionPreBuild...
+[2017-08-07T19:41:15.615Z] INFO  [27326] : Running 4 of 6 actions: AppDeployPreHook...
+[2017-08-07T19:42:26.209Z] INFO  [27326] : Running 5 of 6 actions: EbExtensionPostBuild...
+[2017-08-07T19:42:26.511Z] INFO  [27326] : Running 6 of 6 actions: InfraCleanEbextension...
+[2017-08-07T19:42:26.552Z] INFO  [27326] : Running stage 1 of command CMD-AppDeploy...
+[2017-08-07T19:42:26.552Z] DEBUG [27326] : Loaded 2 actions for stage 1.
+[2017-08-07T19:42:26.552Z] INFO  [27326] : Running 1 of 2 actions: AppDeployEnactHook...
+[2017-08-07T19:42:33.309Z] INFO  [27326] : Running 2 of 2 actions: AppDeployPostHook...
+[2017-08-07T19:42:33.378Z] INFO  [27326] : Running AddonsAfter for command CMD-AppDeploy...
+[2017-08-07T19:42:33.460Z] INFO  [27326] : Command CMD-AppDeploy succeeded!
+[2017-08-07T19:42:33.460Z] INFO  [27326] : Command processor returning results: 
+{"status":"SUCCESS","api_version":"1.0","results":[{"status":"SUCCESS","msg":"","returncode":0,"events":[]}]}
+[2017-08-11T19:12:12.771Z] DEBUG [30469] : Reading config file: /etc/elasticbeanstalk/.aws-eb-stack.properties
+[2017-08-11T19:12:12.772Z] DEBUG [30469] : Checking if the command processor should execute...
+[2017-08-11T19:12:12.773Z] DEBUG [30469] : Checking whether the command is applicable to instance (i-0dd60b16cc5659a63)..
+[2017-08-11T19:12:12.773Z] INFO  [30469] : Command is applicable to this instance (i-0dd60b16cc5659a63)..
+[2017-08-11T19:12:12.773Z] DEBUG [30469] : Checking if the received command stage is valid..
+[2017-08-11T19:12:12.773Z] INFO  [30469] : No stage_num in command. Valid stage..
+[2017-08-11T19:12:12.773Z] INFO  [30469] : Received command CMD-AppDeploy: {"execution_data":"{\"leader_election\":\"true\"}","instance_ids":["i-0dd60b16cc5659a63"],"data":"manifest_1502478729954","command_name":"CMD-AppDeploy","api_version":"1.0","resource_name":"AWSEBAutoScalingGroup","request_id":"f6e597f3-7ec8-11e7-a450-1748866a3b51"}
+[2017-08-11T19:12:12.773Z] INFO  [30469] : Command processor should execute command.
+[2017-08-11T19:12:12.773Z] DEBUG [30469] : Storing current stage..
+[2017-08-11T19:12:12.773Z] DEBUG [30469] : Stage_num does not exist. Not saving null stage. Returning..
+[2017-08-11T19:12:12.773Z] DEBUG [30469] : Reading config file: /etc/elasticbeanstalk/.aws-eb-stack.properties
+[2017-08-11T19:12:12.773Z] DEBUG [30469] : Retrieving metadata for key: AWS::ElasticBeanstalk::Ext||_ContainerConfigFileContent||commands..
+[2017-08-11T19:12:12.774Z] DEBUG [30469] : Retrieving metadata for key: AWS::ElasticBeanstalk::Ext||_API||_Commands..
+[2017-08-11T19:12:12.774Z] INFO  [30469] : Found enabled addons: ["logpublish", "logstreaming"].
+[2017-08-11T19:12:12.775Z] INFO  [30469] : Updating Command definition of addon logpublish.
+[2017-08-11T19:12:12.775Z] INFO  [30469] : Updating Command definition of addon logstreaming.
+[2017-08-11T19:12:12.775Z] DEBUG [30469] : Refreshing metadata...
+[2017-08-11T19:12:12.980Z] DEBUG [30469] : Refreshed environment metadata.
+[2017-08-11T19:12:12.980Z] DEBUG [30469] : Retrieving metadata for key: AWS::ElasticBeanstalk::Ext||_ContainerConfigFileContent||commands..
+[2017-08-11T19:12:12.980Z] DEBUG [30469] : Retrieving metadata for key: AWS::ElasticBeanstalk::Ext||_API||_Commands..
+[2017-08-11T19:12:12.982Z] INFO  [30469] : Found enabled addons: ["logpublish", "logstreaming"].
+[2017-08-11T19:12:12.982Z] INFO  [30469] : Updating Command definition of addon logpublish.
+[2017-08-11T19:12:12.983Z] INFO  [30469] : Updating Command definition of addon logstreaming.
+[2017-08-11T19:12:12.983Z] DEBUG [30469] : Retrieving metadata for key: AWS::CloudFormation::Init||Infra-WriteApplication2||files..
+[2017-08-11T19:12:12.983Z] DEBUG [30469] : Retrieving metadata for key: AWS::ElasticBeanstalk::Ext||ManifestFileS3Key..
+[2017-08-11T19:12:13.077Z] INFO  [30469] : Loading manifest from bucket 'elasticbeanstalk-us-east-2-682845703350' using computed S3 key 'resources/environments/e-gfwsfaek6g/_runtime/versions/manifest_1502478729954'.
+[2017-08-11T19:12:13.195Z] INFO  [30469] : Updated manifest cache: deployment ID 11 and serial 11.
+[2017-08-11T19:12:13.195Z] DEBUG [30469] : Loaded definition of Command CMD-AppDeploy.
+[2017-08-11T19:12:13.196Z] INFO  [30469] : Executing Application update
+[2017-08-11T19:12:13.196Z] INFO  [30469] : Executing command: CMD-AppDeploy...
+[2017-08-11T19:12:13.196Z] INFO  [30469] : Executing command CMD-AppDeploy activities...
+[2017-08-11T19:12:13.196Z] DEBUG [30469] : Setting environment variables..
+[2017-08-11T19:12:13.196Z] INFO  [30469] : Running AddonsBefore for command CMD-AppDeploy...
+[2017-08-11T19:12:13.318Z] DEBUG [30469] : Running stages of Command CMD-AppDeploy from stage 0 to stage 1...
+[2017-08-11T19:12:13.318Z] INFO  [30469] : Running stage 0 of command CMD-AppDeploy...
+[2017-08-11T19:12:13.318Z] INFO  [30469] : Running leader election...
+[2017-08-11T19:12:13.519Z] INFO  [30469] : Instance is Leader.
+[2017-08-11T19:12:13.520Z] DEBUG [30469] : Loaded 6 actions for stage 0.
+[2017-08-11T19:12:13.520Z] INFO  [30469] : Running 1 of 6 actions: InfraWriteConfig...
+[2017-08-11T19:12:13.522Z] INFO  [30469] : Running 2 of 6 actions: DownloadSourceBundle...
+[2017-08-11T19:12:14.099Z] INFO  [30469] : Running 3 of 6 actions: EbExtensionPreBuild...
+[2017-08-11T19:12:14.417Z] INFO  [30469] : Running 4 of 6 actions: AppDeployPreHook...
+[2017-08-11T19:13:16.781Z] INFO  [30469] : Running 5 of 6 actions: EbExtensionPostBuild...
+[2017-08-11T19:13:17.011Z] INFO  [30469] : Running 6 of 6 actions: InfraCleanEbextension...
+[2017-08-11T19:13:17.052Z] INFO  [30469] : Running stage 1 of command CMD-AppDeploy...
+[2017-08-11T19:13:17.052Z] DEBUG [30469] : Loaded 2 actions for stage 1.
+[2017-08-11T19:13:17.052Z] INFO  [30469] : Running 1 of 2 actions: AppDeployEnactHook...
+[2017-08-11T19:13:23.498Z] INFO  [30469] : Running 2 of 2 actions: AppDeployPostHook...
+[2017-08-11T19:13:23.532Z] INFO  [30469] : Running AddonsAfter for command CMD-AppDeploy...
+[2017-08-11T19:13:23.633Z] INFO  [30469] : Command CMD-AppDeploy succeeded!
+[2017-08-11T19:13:23.633Z] INFO  [30469] : Command processor returning results: 
+{"status":"SUCCESS","api_version":"1.0","results":[{"status":"SUCCESS","msg":"","returncode":0,"events":[]}]}
+[2017-08-14T19:10:03.069Z] DEBUG [18788] : Reading config file: /etc/elasticbeanstalk/.aws-eb-stack.properties
+[2017-08-14T19:10:03.069Z] DEBUG [18788] : Checking if the command processor should execute...
+[2017-08-14T19:10:03.070Z] DEBUG [18788] : Checking whether the command is applicable to instance (i-0dd60b16cc5659a63)..
+[2017-08-14T19:10:03.070Z] INFO  [18788] : Command is applicable to this instance (i-0dd60b16cc5659a63)..
+[2017-08-14T19:10:03.071Z] DEBUG [18788] : Checking if the received command stage is valid..
+[2017-08-14T19:10:03.071Z] INFO  [18788] : No stage_num in command. Valid stage..
+[2017-08-14T19:10:03.071Z] INFO  [18788] : Received command CMD-TailLogs: {"execution_data":"{\"aws_access_key_id\":\"ASIAJINT2UGL4RPM2SIQ\",\"signature\":\"VmxevM++CZfG1w53L6m4HycZ4Jw=\",\"security_token\":\"FQoDYXdzEBwaDGERcamrby+mn4UPOyLcAwRcM9PqLKdjtnkYpX8Yp2XdLUj\\\/AxSM40haNUZyJ+QQnVq\\\/DMV3VNfobcSFb\\\/7EUaC\\\/TlK7woNQbQCr5tIOgP9GEx\\\/tfFswv9uWQFOFnop55P2eb1ovPCiLD\\\/Nt18SBe8wyUtZWh2GOcA1j1rvj1pS7aWS8l+hs2UeVMaiT9PNINUwEoybIIKEOnyD4UgIX4C+MN5ZjgXjruPS5Vxae+5S6iW1BZm+VRjlVEqL5ZbLKYgKqxiBsgjU3NHmZY+L8+OFvvRaQ9Bje64NxZWR0iv1id3RRqfjkC3oKSp81m4tkvOoH4YfHtlFscuGmgc6lKLQqtKw1h3+0rw2+9vZrQHR\\\/shUGA4mvRdP+GTmpwLEg4n\\\/UorlvJ2+a0M9hZSyYXF1gzDk4R4mfgIbvuvJkpjdHA3BjsUZlz2Mgvfi6O5HwChL+z440rNMBjgsGHj81HoIM\\\/UJTwuB240ZYD8+CXkB97d9SDQba6nbwgGAxDg3StS5Qg0MVXEjxGRLcDPPUEt8u61wRmaDpq0k7PDmKs3qm7PonM6bspLEEeEhIuj3poiqAB1DLVd9YkY2ANj1VaJ1zDiqzJkT7LGXkXHkjI4qnZ+\\\/hPR15OgE802qsts9MfAM4hU\\\/z81aS575FKOfpx8wF\",\"policy\":\"eyJleHBpcmF0aW9uIjoiMjAxNy0wOC0xNFQxOTo0MDowMS43NzNaIiwiY29uZGl0aW9ucyI6W1sic3RhcnRzLXdpdGgiLCIkeC1hbXotbWV0YS10aW1lX3N0YW1wIiwiIl0sWyJzdGFydHMtd2l0aCIsIiR4LWFtei1tZXRhLXB1Ymxpc2hfbWVjaGFuaXNtIiwiIl0sWyJzdGFydHMtd2l0aCIsIiRrZXkiLCJyZXNvdXJjZXNcL2Vudmlyb25tZW50c1wvbG9nc1wvIl0sWyJzdGFydHMtd2l0aCIsIiR4LWFtei1tZXRhLWJhdGNoX2lkIiwiIl0sWyJzdGFydHMtd2l0aCIsIiR4LWFtei1tZXRhLWZpbGVfbmFtZSIsIiJdLFsic3RhcnRzLXdpdGgiLCIkeC1hbXotc2VjdXJpdHktdG9rZW4iLCIiXSxbInN0YXJ0cy13aXRoIiwiJENvbnRlbnQtVHlwZSIsIiJdLFsiZXEiLCIkYnVja2V0IiwiZWxhc3RpY2JlYW5zdGFsay11cy1lYXN0LTItNjgyODQ1NzAzMzUwIl0sWyJlcSIsIiRhY2wiLCJwcml2YXRlIl1dfQ==\"}","instance_ids":["i-0dd60b16cc5659a63"],"data":"2c137e23-8124-11e7-8258-c7c7fd3f2858","command_name":"CMD-TailLogs","api_version":"1.0","resource_name":"AWSEBAutoScalingGroup","request_id":"2c137e23-8124-11e7-8258-c7c7fd3f2858"}
+[2017-08-14T19:10:03.071Z] INFO  [18788] : Command processor should execute command.
+[2017-08-14T19:10:03.071Z] DEBUG [18788] : Storing current stage..
+[2017-08-14T19:10:03.071Z] DEBUG [18788] : Stage_num does not exist. Not saving null stage. Returning..
+[2017-08-14T19:10:03.071Z] DEBUG [18788] : Reading config file: /etc/elasticbeanstalk/.aws-eb-stack.properties
+[2017-08-14T19:10:03.071Z] DEBUG [18788] : Retrieving metadata for key: AWS::ElasticBeanstalk::Ext||_ContainerConfigFileContent||commands..
+[2017-08-14T19:10:03.071Z] DEBUG [18788] : Retrieving metadata for key: AWS::ElasticBeanstalk::Ext||_API||_Commands..
+[2017-08-14T19:10:03.072Z] INFO  [18788] : Found enabled addons: ["logpublish", "logstreaming"].
+[2017-08-14T19:10:03.073Z] INFO  [18788] : Updating Command definition of addon logpublish.
+[2017-08-14T19:10:03.073Z] INFO  [18788] : Updating Command definition of addon logstreaming.
+[2017-08-14T19:10:03.073Z] DEBUG [18788] : Loaded definition of Command CMD-TailLogs.
+[2017-08-14T19:10:03.073Z] INFO  [18788] : Executing CMD-TailLogs
+[2017-08-14T19:10:03.074Z] INFO  [18788] : Executing command: CMD-TailLogs...
+[2017-08-14T19:10:03.074Z] INFO  [18788] : Executing command CMD-TailLogs activities...
+[2017-08-14T19:10:03.074Z] DEBUG [18788] : Setting environment variables..
+[2017-08-14T19:10:03.074Z] INFO  [18788] : Running AddonsBefore for command CMD-TailLogs...
+[2017-08-14T19:10:03.074Z] DEBUG [18788] : Running stages of Command CMD-TailLogs from stage 0 to stage 0...
+[2017-08-14T19:10:03.074Z] INFO  [18788] : Running stage 0 of command CMD-TailLogs...
+[2017-08-14T19:10:03.074Z] DEBUG [18788] : Loaded 1 actions for stage 0.
+[2017-08-14T19:10:03.074Z] INFO  [18788] : Running 1 of 1 actions: TailLogs...
+
+

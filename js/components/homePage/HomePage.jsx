@@ -6,6 +6,16 @@ import { connect } from 'react-redux';
 import DocumentMeta from 'react-document-meta';
 import actions from '../../actions';
 import gsap from 'gsap';
+import ReactHtmlParser from 'react-html-parser';
+
+const convertKelvinToFahrenheight = kelvinDegrees => {
+    let fahrenheightDegrees = (((kelvinDegrees-273.15)*1.8)+32).toFixed();
+    return fahrenheightDegrees;
+}
+
+const validateExistence = (test) => {
+    let returnValue = test ? test : 'undefined';
+}
 
 let submittedCall = false;
 
@@ -37,6 +47,12 @@ class HomePage extends React.Component {
     }
     componentDidMount(){
         globals.mountComponent();
+        this.setState({
+            test:"test"
+        });
+       
+
+        console.log("test: ", this.state.test);
     }
     componentWillUnmount(){
         globals.unmountComponent();
@@ -69,43 +85,86 @@ class HomePage extends React.Component {
         this.props.getWeather(this.state.zipValue);
         this.setState({submittedCall:true});
     }
+    
     render() {
         let weatherInfo = this.props.homePageData.currentWeather;
+        let { description, main, id } = this.props.homePageData.currentWeather.weather[0];
 
-            weatherInfo.statement = weatherInfo.name ? 
-                `You are in ${weatherInfo.name}, but hey want to see what the weather is like somewhere else?`
-                : `Dude this aint a real US zip code player`;
+        let temperature = weatherInfo.weather 
+            ? convertKelvinToFahrenheight(weatherInfo.main.temp) 
+            : "unknown";
 
+         weatherInfo.statement = weatherInfo.name ? 
+            `You are in <em>${weatherInfo.name}</em>, and it is <em>${temperature}º</em> and <em>${description}</em><br />but hey want to see what the weather is like somewhere else?`
+            : `Dude this aint a real US zip code player! Maybe you should try again fool!`;
 
-        console.log("props fron render: ", this.props);
+        weatherInfo.apiClass = weatherInfo.name ?
+            `apiSuccess`
+            : `apiFail`;
+
         return (
             <div id="homePage">
                 <DocumentMeta {...meta.homePage} />
                 
                 { this.state.weatherUpdated &&
-                        <section className="wrapper apiSuccess">
-                            <header style={{background:'yellow'}}>
-                                <h2>{weatherInfo.statement}</h2>
-                                <form onSubmit={this.handleSubmit}>
-                                    <input 
-                                        type="zip"
-                                        id="zip"
-                                        value={this.state.zipValue} 
-                                        onChange={this.handleChange} 
-                                        maxLength={5}
-                                        size={5}
-                                    />
-                                    <input type="submit" value="submit" />
-                                </form>
+                        <section style={{backgroundImage:'url(/images/backgrounds/' + id + '.jpg)'}} className={"wrapper " + weatherInfo.apiClass}>
+                            <header>
+                                <div className="container">
+                                    <h2>{ReactHtmlParser(weatherInfo.statement)}</h2>
+                                    <div className="formHolder">
+                                        <form onSubmit={this.handleSubmit}>
+                                            <input 
+                                                type="zip"
+                                                id="zip"
+                                                value={this.state.zipValue} 
+                                                onChange={this.handleChange} 
+                                                maxLength={5}
+                                                size={5}
+                                                placeholder="Enter Zip"
+                                            />
+                                            <input type="submit" value="submit" />
+                                        </form>
+                                    </div>
+                                </div>
                             </header>
                             <section className="display">
-                                
+                                <div className="box box1">1</div>
+                                <div className="box box2">2</div>
+                                <div className="box box3">3</div>
+                                <div className="box box4">4</div>
+                                <div className="box box5">5</div>
+                                <div className="box box6">6</div>
+                                <div className="box box7">7</div>
+
+                                <div className="box box8">8</div>
+                                <div className="box box9">9</div>
+                                <div className="box box10">10</div>
+                                <div className="box box11">11</div>
+                                <div className="box box12">12</div>
+                                <div className="box box13">13</div>
+                                <div className="box box14">14</div>
+
+                                <div className="box box15">15</div>
+                                <div className="box box16 visible">
+                                    <div>Temperature: {temperature}</div>
+                                </div>
+                                <div className="box box17">17</div>
+                                <div className="box box18">18</div>
+                                <div className="box box19">19</div>
+                                <div className="box box20">20</div>
+                                <div className="box box21">21</div>
+
+                                <div className="box box22">22</div>
+                                <div className="box box23">23</div>
+                                <div className="box box24">24</div>
+                                <div className="box box25">25</div>
+                                <div className="box box26">26</div>
                             </section>
                         </section>
                 }
                 { !this.state.weatherUpdated && 
                     <section className="wrapper intro">
-                        <div className="formHolder">
+                        <div className="formHolder circle">
                             <h1>Enter your zip code to find out about the weather.</h1>  
                             <form onSubmit={this.handleSubmit}>
                                 <input 
@@ -116,6 +175,7 @@ class HomePage extends React.Component {
                                     autoFocus={true}
                                     maxLength={5}
                                     size={5}
+                                    placeholder="Enter Zip"
                                 />
                                 <input type="submit" value="submit" />
                             </form>

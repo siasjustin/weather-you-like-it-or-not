@@ -1,3 +1,4 @@
+
 @import '~breakpoint-sass';
 @import 'reset';
 @import 'mixins';
@@ -23,7 +24,9 @@
 		display:flex;
 	}
 }
-
+.visible {
+	 visibility: visible !important;
+}
 .outerContainer {
 	padding: 0 50px;
 	position: relative;
